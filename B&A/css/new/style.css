@@ -1,0 +1,190 @@
+textarea.error {
+    border: 1px solid #ff0000;
+}
+input.error {
+    border: 1px solid #ff0000;
+}
+input.error::-webkit-input-placeholder {
+    color: #E93C4F ;
+}
+textarea.error::-webkit-input-placeholder {
+    color: #E93C4F ;
+}
+input.error:-moz-placeholder {
+    color: #E93C4F ;
+}
+textarea.error:-moz-placeholder {
+    color: #E93C4F ;
+}
+input.valid {
+    border: 1px solid #ff0000;
+}
+textarea.valid {
+    border: 1px solid #ff0000;
+}
+
+input.valid::-webkit-input-placeholder {
+    color: #84A507 ;
+}
+input.valid:-moz-placeholder {
+    color: #84A507 ;
+}
+input.valid::-moz-placeholder {
+    color: #84A507 ;
+}
+input.valid:-ms-input-placeholder {
+    color: #84A507 ;
+}
+textarea.valid::-webkit-input-placeholder {
+    color: #84A507 ;
+}
+textarea.valid:-moz-placeholder {
+    color: #84A507 ;
+}
+textarea.valid::-moz-placeholder {
+    color: #84A507 ;
+}
+textarea.valid:-ms-input-placeholder {
+    color: #84A507 ;
+}
+
+
+.iv-layout.top-header{background-color:#1e82b6;}
+
+img.wp-smiley,
+img.emoji {
+    display: inline ;
+    border: none ;
+    box-shadow: none ;
+    height: 1em ;
+    width: 1em ;
+    margin: 0 .07em ;
+    vertical-align: -0.1em ;
+    background: none ;
+    padding: 0 ;
+}
+.wpcf7-response-output{color:#000;}
+
+.iv-layout.title-wrapper h2 {
+    font-size: 25px ;
+}
+.iv-layout.top-header {
+    background-color: #1e82b6 ;
+}
+.wpb_toggle_content p:last-child {
+    margin-bottom: 0;
+}
+p {
+    -moz-hyphens: initial ;
+    word-break: keep-all;
+}
+body {
+    font-size: 14px ;
+
+}
+
+.wpcf7 form p span input[type="email"]{
+    Color:#000 ;
+    background-Color:#fff ;
+}
+
+.mc4wp-form-fields p input[type="email"], input[type="text"]{
+    Color:#000 ;
+    background-Color:#fff ;
+}
+
+.ivan-call-action .ivan-call-action-inner .call-action-btn-holder {
+    text-align: left;
+}
+.goog-te-gadget-simple .goog-te-menu-value span
+{
+    color:#000;
+}
+#google_translate_element img
+{
+    width:auto;
+}
+
+.goog-te-menu-value {
+    margin-left: -2px;
+    margin-right: 3px;
+}
+.goog-te-gadget-simple {
+    font-size: 98%;
+}
+.vc_gitem-zone-img {
+    height: 210px;
+
+}
+.top-header-right-area .vc_col-sm-12 {
+    padding-right:0px;
+    width:110%;
+}
+div.wpcf7-validation-errors {
+    border: 0 solid #f7e700;
+}
+.style2-right-menu .mega_main_menu .mega_main_menu_ul > li > .item_link {
+    padding: 12px;
+}
+
+.vc_custom_1470993507228{
+    background-color: #1e73be ;
+}
+.vc_custom_1442809668897{
+    padding-top: 5px ;
+}
+.vc_custom_1470915452650{
+    padding-top: 30px ;
+    padding-right: 10px ;
+    padding-bottom: 30px ;
+    padding-left: 10px ;
+}
+.vc_custom_1445403652263{
+    margin-top: 15px ;
+    border-top-width: 8px ;
+    border-right-width: 8px ;
+    border-bottom-width: 8px ;
+    border-left-width: 8px ;
+    padding-top: 50px;
+    padding-right: 34px ;
+    padding-bottom: 50px;
+    padding-left: 34px ;
+    border-left-color: #2090cb ;
+    border-left-style: solid ;
+    border-right-color: #2090cb ;
+    border-right-style: solid ;
+    border-top-color: #2090cb ;
+    border-top-style: solid ;
+    border-bottom-color: #2090cb;
+    border-bottom-style: solid;
+}
+.vc_custom_1441358389306{
+    background-color: rgb(81, 81, 255) ;
+}
+.vc_custom_1441187687142{
+    background-color: rgb(0, 0, 94) ;
+}
+.vc_custom_1441191242719{
+    background-color: rgb(48, 255, 25);
+}
+.vc_custom_1441194489586{
+    padding-top: 70px;
+    padding-right: 50px ;
+    padding-bottom: 10px ;
+    padding-left: 50px ;
+    background-color: #ffffff ;
+}
+.vc_custom_1441194580696{
+    padding-top: 70px ;
+    padding-right: 50px ;
+    padding-bottom: 70px ;
+    padding-left: 50px ;
+    background-color: #1e73be ;
+}
+.vc_custom_1442809668897{
+    padding-top: 5px ;
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
